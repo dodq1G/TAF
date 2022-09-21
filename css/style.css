@@ -78,4 +78,9 @@
 
 .navbar-padding{
 	padding-top:5px;
+	padding-left:100px;
+}
+
+.container{
+	float:left;
 }
